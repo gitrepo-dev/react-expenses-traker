@@ -27,7 +27,7 @@ export default function Header() {
       <div className="flex justify-between items-center w-full">
         <Link to="/" className="flex items-center sm:w-3/4">
           <Brand />
-          <span className="title ml-3 text-4xl font-bold">Expenses Traker</span>
+          <span className="title ml-3 text-4xl font-bold">Expenses tracker</span>
         </Link>
 
         <span className="flex justify-end items-center">
