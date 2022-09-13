@@ -152,3 +152,10 @@ body{
 .toast-success{background: #06b70d;}
 .toast-error{background: #d20007;}
 .toast-info{background: #00a5ca;}
+
+
+.loginuserimg {
+  top: -65px;
+  left: 0;
+  right: 0;
+}
